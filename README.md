@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @hamzajaved007
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m am a web dev
 - 📫 How to reach me at my email: itshamzajaved@gmail.com
